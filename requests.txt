@@ -1,0 +1,2 @@
+1) curl --request GET 'localhost:3000/users/12345'
+2) curl --request POST 'localhost:3000/users' --data-raw ''
